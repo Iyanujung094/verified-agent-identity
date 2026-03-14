@@ -1,4 +1,4 @@
-nname: iyanujung
+name: iyanujung
 
 on:
   workflow_dispatch:
